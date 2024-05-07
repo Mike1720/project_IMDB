@@ -1,8 +1,14 @@
-# React + Vite
+# React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Descripcion: 
 
-Currently, two official plugins are available:
+Se hace el consumo de dos API´s, las cuales son
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Billboard API (https://rapidapi.com/DevoCat/api/billboard-api5/)
+* Spotify (https://rapidapi.com/Glavier/api/spotify23/)
+
+Ambas provienen de RapidAPI (https://rapidapi.com/hub)
+
+El proyecto cuenta con 2 paginas principales, home y seach. Home muestra los 100 exitos actuales de Billboard, y Search permite la busqueda de canciones las cuales redirigen a la canción en Spotify.
+
+contacto: MikeMV1720@hotmail.com
