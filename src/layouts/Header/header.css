@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(190, 33, 120);
+}
+.header__item-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header__item-link--is--active {
+    color: #fff;
+    border-bottom: solid 2px #f8f7f7;
+}
+li{
+    list-style: none;
+}

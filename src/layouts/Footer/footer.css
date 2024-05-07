@@ -1,0 +1,20 @@
+footer {
+    position: fixed;
+    background-color: gray;
+    bottom: 0;
+    color: #fff;
+    padding: 20px 0;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    animation: moveDown 1s forwards;
+}
+
+.footer-content p{
+    margin: 0;
+}
+.footer-content a{
+    color: unset;
+    text-decoration: none;
+}
