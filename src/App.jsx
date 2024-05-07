@@ -1,5 +1,3 @@
-// Styles
-import './App.css'
 // COMPONENTS
 import { Header } from './layouts/Header/Header'
 import { Footer } from "./layouts/Footer/Footer";
