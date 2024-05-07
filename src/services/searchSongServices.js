@@ -3,7 +3,7 @@ const BASE_URL = "https://spotify23.p.rapidapi.com";
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '68d9c459e9mshf26d390bc2a7d7cp135d11jsn1ff40dd3f6de',
+        'X-RapidAPI-Key': '39a0d91ab0mshfd3ce22ccd1f0eep1966dcjsnb06289877896',
         'X-RapidAPI-Host': 'spotify23.p.rapidapi.com'
     }
 };

@@ -2,7 +2,7 @@ const url = 'https://billboard-api5.p.rapidapi.com/api/charts/hot-100?week=2024-
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '82943f9329msh3c5fb58ad3cb945p1ad68ejsnb96bf9f87237',
+        'X-RapidAPI-Key': '39a0d91ab0mshfd3ce22ccd1f0eep1966dcjsnb06289877896',
         'X-RapidAPI-Host': 'billboard-api5.p.rapidapi.com'
     }
 }
